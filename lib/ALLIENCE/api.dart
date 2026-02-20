@@ -1,6 +1,6 @@
 class Api {
 
-  static String serverIp = "https://nonprofit-unchanneled-thea.ngrok-free.dev";//https://nonprofit-unchanneled-thea.ngrok-free.dev
+  static String serverIp = "http://163.20.3.28:3000";//https://nonprofit-unchanneled-thea.ngrok-free.dev
 
-  static const String defaultIp = "https://nonprofit-unchanneled-thea.ngrok-free.dev";
+  static const String defaultIp = "http://163.20.3.28:3000";
 }
