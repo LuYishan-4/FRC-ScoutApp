@@ -8,7 +8,7 @@
 
 
 ---
-
+![](https://github.com/team7632/FRC-ScoutApp/blob/master/screenshot/Screenshot_20260216_234657.jpg)
 
 > [!IMPORTANT]
 > **API Server (Node.js)**
