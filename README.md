@@ -1,3 +1,4 @@
+![](https://github.com/team7632/FRC-ScoutApp/blob/master/assets/images/favicon.png)
 # FRC Scouting System - 7632
 
 ![Node.js](https://img.shields.io/badge/Node.js-v16%2B-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -8,7 +9,6 @@
 
 
 ---
-![](https://github.com/team7632/FRC-ScoutApp/blob/master/assets/images/favicon.png)
 
 > [!IMPORTANT]
 > **API Server (Node.js)**
